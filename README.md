@@ -20,7 +20,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/muhammad-zuhrizal-772060290" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/mhzhrizal/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ForcesR2N&show_icons=true&locale=en" alt="ForcesR2N" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&" alt="ForcesR2N" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ForcesR2N&show_icons=true&locale=en&layout=compact" alt="ForcesR2N" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ForcesR2N" alt="ForcesR2N" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ForcesR2N&show_icons=true&locale=en&theme=dark" alt="ForcesR2N" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&theme=dark" alt="ForcesR2N" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ForcesR2N&show_icons=true&locale=en&layout=compact&theme=dark" alt="ForcesR2N" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ForcesR2N&theme=darkhub" alt="ForcesR2N" /></a></p>
