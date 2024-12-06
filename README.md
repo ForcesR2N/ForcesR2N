@@ -24,3 +24,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&theme=transparent" alt="ForcesR2N" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ForcesR2N&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ForcesR2N" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ForcesR2N&theme=nord" alt="ForcesR2N" /></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
