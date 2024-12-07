@@ -4,13 +4,6 @@
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00E2FF&background=000000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%93%B1+Mobile+Developer;%F0%9F%92%BB+Flutter+Developer;%F0%9F%94%A5+Web+Developer)
 
-  <br>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Mobile_Development-blue?style=for-the-badge&color=00E2FF">
-    <img src="https://img.shields.io/badge/Lives-Indonesia-blue?style=for-the-badge&color=FF0000">
-    <img src="https://img.shields.io/badge/Languages-English%20%26%20Indonesian-blue?style=for-the-badge&color=00FF00">
-  </p>
 </div>
 
 <div align="center">
@@ -24,7 +17,7 @@
 
 <br>
 
-## 🤝 Connect With Me
+### Connect With Me:
 
 <div align="center">
   <a href="https://linkedin.com/in/muhammad-zuhrizal-772060290">
@@ -35,34 +28,26 @@
   </a>
 </div>
 
-## 🛠️ My Tech Arsenal 
+### My Tech Tools: 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,firebase,mongodb,figma&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,git,postman&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=arduino,unity,laravel,java,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,figma,arduino,laravel,java,python,javascript,html,css,postman&theme=dark" />
 </div>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForcesR2N&theme=github_dark" />
-</p>
+### GitHub Analytics:
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForcesR2N&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForcesR2N&theme=github_dark" />
 </p>
 
-## 🏆 GitHub Achievements
+### 🏆 GitHub Achievements:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ForcesR2N&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&theme=github-dark-blue&hide_border=true&background=000000&stroke=00E2FF&ring=00E2FF&fire=FF0000&currStreakNum=00E2FF&currStreakLabel=00E2FF" />
