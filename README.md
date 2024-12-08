@@ -1,5 +1,3 @@
-# <div align="center">⚡ Muhammad Zuhrizal ⚡</div>
-
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
@@ -12,10 +10,18 @@
 <br>
 
 <div align="center">
-  🚀 Passionate Full-Stack Developer | Mobile Solutions Architect<br>
-  💡 Specializing in Flutter & Cross-Platform Development<br>
-  🌟 Open to Freelance Projects & Technical Collaborations<br>
+  <h1>
+    Hey there! 👋 I'm Rizal from Sumbawa Barat, Indonesia
+  </h1>
+  
+  <p>
+    Currently focused on Flutter app development and modern web solutions.
+    <br>
+    Beyond my current work, I'm deeply interested in AI, Machine Learning, and Data Analysis.
+  </p>
 </div>
+
+<br>
 
 ### Connect With Me:
 
