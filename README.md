@@ -17,6 +17,12 @@
 
 <br>
 
+<div align="center">
+  🚀 Passionate Full-Stack Developer | Mobile Solutions Architect<br>
+  💡 Specializing in Flutter & Cross-Platform Development<br>
+  🌟 Open to Freelance Projects & Technical Collaborations<br>
+</div>
+
 ### Connect With Me:
 
 <div align="center">
@@ -40,12 +46,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForcesR2N&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForcesR2N&theme=github_dark" />
 </p>
-
-### 🏆 GitHub Achievements:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ForcesR2N&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
 
 ### 🔥 Streak Stats
 
