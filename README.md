@@ -1,12 +1,6 @@
 # <div align="center">⚡ Muhammad Zuhrizal ⚡</div>
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00E2FF&background=000000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%93%B1+Mobile+Developer;%F0%9F%92%BB+Flutter+Developer;%F0%9F%94%A5+Web+Developer)
-
-</div>
-
-<div align="center">
   <img height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
@@ -60,6 +54,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake.svg" />
 </picture>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E2FF&height=120&section=footer"/>
