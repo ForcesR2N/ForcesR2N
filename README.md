@@ -15,7 +15,7 @@
   </h1>
   
   <p>
-    Currently focused on Flutter app development and modern web solutions.
+    Currently focusing on Flutter app development and modern web solutions.
     <br>
     Beyond my current work, I'm deeply interested in AI, Machine Learning, and Data Analysis.
   </p>
