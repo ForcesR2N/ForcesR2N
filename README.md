@@ -47,13 +47,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForcesR2N&theme=github_dark" />
 </p>
 
-### 🔥 Streak Stats
+### Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&theme=github-dark-blue&hide_border=true&background=000000&stroke=00E2FF&ring=00E2FF&fire=FF0000&currStreakNum=00E2FF&currStreakLabel=00E2FF" />
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake-dark.svg" />
@@ -61,7 +61,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Footer Wave -->
