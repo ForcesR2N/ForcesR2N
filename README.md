@@ -8,7 +8,6 @@
 </div>
 
 <br>
-
 <div align="center">
   <h1>
     Hey there!, I'm Rizal from Sumbawa Barat, Indonesia
@@ -20,7 +19,6 @@
     Beyond my current work, I'm deeply interested in AI, Machine Learning, and Data Analysis.
   </p>
 </div>
-
 <br>
 
 ### Connect With Me:
