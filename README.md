@@ -24,7 +24,7 @@
 ### Connect With Me:
 
 <div align="center">
-  <a href="https://linkedin.com/in/muhammad-zuhrizal-772060290">
+  <a href="www.linkedin.com/in/muhammad-zuhrizal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/mhzhrizal">
