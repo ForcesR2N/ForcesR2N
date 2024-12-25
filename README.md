@@ -35,7 +35,7 @@
 ### My Tech Tools: 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,figma,arduino,laravel,java,python,javascript,html,css,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,nodejs,firebase,figma,arduino,laravel,java,javascript,html,css,postman&theme=dark" />
 </div>
 
 ### GitHub Analytics:
