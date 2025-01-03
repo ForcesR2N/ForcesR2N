@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,nodejs,firebase,figma,arduino,laravel,java,javascript,html,css,postman&theme=dark" />
 </div>
 
-### GitHub Analytics:
+### GitHub Analytics
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForcesR2N&theme=github_dark" />
