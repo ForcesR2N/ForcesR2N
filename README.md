@@ -33,7 +33,7 @@
   </a>
 </div>
 
-### My Tech Tools: 
+### My Tech Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,nodejs,firebase,figma,arduino,laravel,java,javascript,html,css,postman&theme=dark" />
