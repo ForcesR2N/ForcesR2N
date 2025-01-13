@@ -20,7 +20,6 @@
     Beyond my current work, I'm deeply interested in AI, Machine Learning, and Data Analysis.
   </p>
 </div>
-
 <br>
 
 ### Connect With Me
