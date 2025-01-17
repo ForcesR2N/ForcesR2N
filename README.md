@@ -32,9 +32,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-<br>
+
 
 ### My Tech Tools
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,flutter,dart,nodejs,firebase,figma,arduino,laravel,java,javascript,html,css,postman&theme=dark" />
