@@ -12,7 +12,7 @@
   <h1>
     Hey there!, I'm Rizal from Sumbawa Barat, Indonesia
   </h1>
-  <br>
+  <br> 
   
   <p>
     Currently focusing on Flutter app development and modern web solutions.
