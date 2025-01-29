@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" width="1000" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img height="350" width="800" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 <br>
 <!-- Profile Views Counter --> 
