@@ -5,7 +5,7 @@
 <!-- Profile Views Counter --> 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ForcesR2N&style=for-the-badge&color=0CE80C&label=PROFILE+VISITS" align="center" />
-</div>               
+</div>                
    
 <br> 
 <div align="center">
