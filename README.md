@@ -49,10 +49,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ForcesR2N&theme=github_dark" />
 </p>
 
+<!--
 ### Streak Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&theme=github-dark-blue&hide_border=true&background=000000&stroke=00E2FF&ring=00E2FF&fire=FF0000&currStreakNum=00E2FF&currStreakLabel=00E2FF" />
-</div 
+</div -->
 
 ## Contribution Snake
 
