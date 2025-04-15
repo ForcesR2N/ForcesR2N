@@ -55,7 +55,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&theme=github-dark-blue&hide_border=true&background=000000&stroke=00E2FF&ring=00E2FF&fire=FF0000&currStreakNum=00E2FF&currStreakLabel=00E2FF" />
 </div -->
 
-## Contribution Snake
+## Contribution Snakes
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake-dark.svg" />
