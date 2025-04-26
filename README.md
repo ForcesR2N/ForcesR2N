@@ -2,7 +2,7 @@
   <img height="300" width="650" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> 
 </div>                                    
 <br>            
-<!-- Profile Views Counter --> 
+<!-- Profile Views Counter -->  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ForcesR2N&style=for-the-badge&color=0CE80C&label=PROFILE+VISITS" align="center" />
 </div>                         
