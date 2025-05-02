@@ -55,13 +55,31 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForcesR2N&theme=github-dark-blue&hide_border=true&background=000000&stroke=00E2FF&ring=00E2FF&fire=FF0000&currStreakNum=00E2FF&currStreakLabel=00E2FF" />
 </div 
 
-## Contribution Snakes
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/pacman-contribution-graph.svg">
+</picture>
 
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://open.spotify.com/user/31zurm2qxtxza4lq7u4yjvyybaw4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zurm2qxtxza4lq7u4yjvyybaw4&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<!--
+## Contribution Snakes
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ForcesR2N/ForcesR2N/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
