@@ -8,7 +8,7 @@
 </div>                         
        
 <br>    
-<div align="center">
+<div align="center"> 
   <h1>
      Hey there!!!, I'm Rizal from Sumbawa Barat, Indonesia
   </h1>
