@@ -15,9 +15,9 @@
   <br> 
    
   <p>
-    Currently focusing on Flutter app development and modern web solutions.
+    Currently focusing on machine learning and Flutter app development.
     <br>
-    Beyond my current work, I'm deeply interested in AI, Machine Learning, and Data Analysis.
+    I'm also deeply interested in AI, data science, and data analysis beyond my current work.
   </p>
 </div>
 <br>
