@@ -22,6 +22,25 @@
 </div>
 <br>
 
+<br>
+<div align="center">
+  <p>
+    Click Here To See My
+        <a href="https://drive.google.com/file/d/1r7HrzjTIEXg1bA3Z2UDmZ_yu6aBr4qOi/view?usp=sharing" target="blank">
+      CV
+      </a>,
+     Portofolio
+    <a href="https://drive.google.com/file/d/1dVEnoVXnp9Y0qoOs-c9bL_KFfrbj8J3P/view?usp=sharing target="blank">
+      Online
+      </a>
+    &
+    <a href="https://drive.google.com/file/d/1dVEnoVXnp9Y0qoOs-c9bL_KFfrbj8J3P/view?usp=sharing target="blank">
+      Offline
+      </a>
+  </p>
+</div>
+<br>
+
 ### Connect With Me
 
 <div align="center">
@@ -87,6 +106,7 @@
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E2FF&height=120&section=footer"/>
+
 
 
 
