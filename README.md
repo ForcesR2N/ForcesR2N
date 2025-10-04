@@ -1,6 +1,6 @@
 <div         align="center">                             
   <img height="250" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>                                                       
-<br>                                
+<br>                                 
               
 <!-- Profile Views Counter -->       
 <div align="center">
@@ -106,6 +106,7 @@
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00E2FF&height=120&section=footer"/>
+
 
 
 
